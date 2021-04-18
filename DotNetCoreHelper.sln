@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMain", "ConsoleMain\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopWatch", "StopWatch\StopWatch.csproj", "{0DADF1AD-CFE6-4E4C-B80A-FCBFDF783E77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelper", "ConsoleHelper\ConsoleHelper.csproj", "{A19A0176-4545-43DC-9642-3CFBA20699C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleHelper", "ConsoleHelper\ConsoleHelper.csproj", "{A19A0176-4545-43DC-9642-3CFBA20699C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadInDeepExample", "ThreadInDeepExample\ThreadInDeepExample.csproj", "{9AC271CA-1A04-4522-A873-4A409567E9A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadInDeepExample", "ThreadInDeepExample\ThreadInDeepExample.csproj", "{9AC271CA-1A04-4522-A873-4A409567E9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEnviroment", "WebEnviroment\WebEnviroment.csproj", "{ABB37162-42B0-4F56-90EB-9E38FC22A73A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9AC271CA-1A04-4522-A873-4A409567E9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC271CA-1A04-4522-A873-4A409567E9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AC271CA-1A04-4522-A873-4A409567E9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB37162-42B0-4F56-90EB-9E38FC22A73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB37162-42B0-4F56-90EB-9E38FC22A73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB37162-42B0-4F56-90EB-9E38FC22A73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB37162-42B0-4F56-90EB-9E38FC22A73A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
